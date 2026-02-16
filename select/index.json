@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "春の嵐",
+  "base_artist": "Hitsujibungaku",
+  "createdAt": "2026-02-16T06:05:42.785463Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春の嵐",
+      "artist": "Taeko Onuki",
+      "has_synced": false,
+      "path": "select/01_春の嵐_Taeko_Onuki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春の嵐",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/02_春の嵐_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春の嵐(inst,)",
+      "artist": "YURI*KARI",
+      "has_synced": false,
+      "path": "select/03_春の嵐(inst,)_YURI_KARI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "春の嵐 (Instrumental)",
+      "artist": "YURI＊KARI",
+      "has_synced": false,
+      "path": "select/04_春の嵐_(Instrumental)_YURI_KARI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "春の嵐",
+      "artist": "yonige",
+      "has_synced": false,
+      "path": "select/05_春の嵐_yonige.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "春の嵐",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/06_春の嵐_マカロニえんぴつ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "春の嵐",
+      "artist": "Shiritsu Ebisu Chugaku",
+      "has_synced": false,
+      "path": "select/07_春の嵐_Shiritsu_Ebisu_Chugaku.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "春の嵐",
+      "artist": "UEBO",
+      "has_synced": true,
+      "path": "select/08_春の嵐_UEBO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "春の嵐 - harunoarashi",
+      "artist": "macaroni enpitsu",
+      "has_synced": true,
+      "path": "select/09_春の嵐_-_harunoarashi_macaroni_enpitsu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "春の嵐",
+      "artist": "a flood of circle",
+      "has_synced": true,
+      "path": "select/10_春の嵐_a_flood_of_circle.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "春の嵐",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/11_春の嵐_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春の嵐",
+      "artist": "Hitsujibungaku",
+      "has_synced": false,
+      "path": "select/pl_01_春の嵐_Hitsujibungaku.txt"
+    }
+  ]
+}
